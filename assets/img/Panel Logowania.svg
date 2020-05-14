@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279" height="349" viewBox="0 0 279 349">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0.499;
+      }
+
+      .cls-11, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #28a4d1;
+      }
+
+      .cls-3 {
+        fill: #28a4d1;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 15px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        stroke: #68b1cc;
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        fill: #575757;
+        font-size: 10px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+        text-decoration: underline;
+      }
+
+      .cls-7 {
+        font-size: 12px;
+        font-family: Montserrat-Light, Montserrat;
+        font-weight: 300;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: 0.7;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Panel_Logowania" data-name="Panel Logowania" transform="translate(-933 -285)">
+    <rect id="panel_logowania-2" data-name="panel logowania" class="cls-1" width="279" height="349" rx="30" transform="translate(933 285)"/>
+    <g id="przycisk_zaloguj" data-name="przycisk zaloguj" transform="translate(882 7)">
+      <g id="Rectangle_17" data-name="Rectangle 17" class="cls-2" transform="translate(124 508)">
+        <rect class="cls-10" width="134" height="42" rx="4"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="133" height="41" rx="3.5"/>
+      </g>
+      <text id="Zaloguj" class="cls-3" transform="translate(191 534)"><tspan x="-28.702" y="0">Zaloguj</tspan></text>
+    </g>
+    <text id="Zaloguj-2" data-name="Zaloguj" class="cls-4" transform="translate(1004 315)"><tspan x="-28.702" y="0">Zaloguj</tspan></text>
+    <text id="Zarejestruj" class="cls-4" transform="translate(1130 315)"><tspan x="-41.213" y="0">Zarejestruj</tspan></text>
+    <path id="Path_136" data-name="Path 136" class="cls-5" d="M-9.185,0H46.581" transform="translate(985 323.5)"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(-11.5)">
+      <text id="Nie_masz_konta_" data-name="Nie masz konta?" class="cls-6" transform="translate(1014.5 592)"><tspan x="-41.83" y="0">Nie masz konta?</tspan></text>
+      <text id="Zapomniałeś_hasła_" data-name="Zapomniałeś hasła?" class="cls-6" transform="translate(1146.5 592)"><tspan x="-50.325" y="0">Zapomniałeś hasła?</tspan></text>
+    </g>
+    <line id="Line_3" data-name="Line 3" class="cls-2" x2="168" transform="translate(989.5 406.5)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-2" x2="168" transform="translate(989.5 456.5)"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(-7)">
+      <text id="Username" class="cls-7" transform="translate(1113.5 391)"><tspan x="-30.276" y="0">Username</tspan></text>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(-6 50)">
+      <g id="password" class="cls-8" transform="translate(952 375)">
+        <g id="Group_15" data-name="Group 15" transform="translate(64)">
+          <g id="Group_14" data-name="Group 14" transform="translate(0)">
+            <path id="Path_133" data-name="Path 133" class="cls-9" d="M214.165,281l-.32,2.882a.508.508,0,0,0,.505.564h2.032a.508.508,0,0,0,.505-.564l-.32-2.882a2.01,2.01,0,0,0,.832-1.634,2.032,2.032,0,0,0-4.064,0A2.01,2.01,0,0,0,214.165,281Zm1.2-2.65a1.013,1.013,0,0,1,.439,1.927.508.508,0,0,0-.284.513l.294,2.64h-.9l.294-2.64a.508.508,0,0,0-.284-.513,1.013,1.013,0,0,1,.439-1.927Z" transform="translate(-206.22 -264.124)"/>
+            <path id="Path_134" data-name="Path 134" class="cls-9" d="M81.781,9.145H80.257V7.113a7.113,7.113,0,1,0-14.225,0V9.145H64.508A.508.508,0,0,0,64,9.653v12.7a2.034,2.034,0,0,0,2.032,2.032H80.257a2.034,2.034,0,0,0,2.032-2.032V9.653A.508.508,0,0,0,81.781,9.145ZM67.048,7.113a6.1,6.1,0,1,1,12.193,0V9.145H78.225V7.113a5.08,5.08,0,0,0-10.161,0V9.145H67.048Zm10.161,0V9.145H69.08V7.113a4.064,4.064,0,1,1,8.129,0Zm4.064,15.241a1.017,1.017,0,0,1-1.016,1.016H66.032a1.017,1.017,0,0,1-1.016-1.016V10.161H81.273Z" transform="translate(-64)"/>
+          </g>
+        </g>
+      </g>
+      <text id="Password-2" data-name="Password" class="cls-7" transform="translate(1113.5 391)"><tspan x="-27.99" y="0">Password</tspan></text>
+    </g>
+    <g id="user" class="cls-8" transform="translate(1007.217 375.5)">
+      <g id="Group_18" data-name="Group 18" transform="translate(0)">
+        <path id="Path_135" data-name="Path 135" class="cls-9" d="M3.556,15.7A12.1,12.1,0,0,1,8.17,12.8a7.019,7.019,0,1,1,7.943,0,12.161,12.161,0,0,1,8.17,11.479h-1.9a10.245,10.245,0,0,0-20.489,0H0A12.063,12.063,0,0,1,3.556,15.7Zm8.585-3.556A5.122,5.122,0,1,0,7.019,7.019,5.128,5.128,0,0,0,12.142,12.142Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
