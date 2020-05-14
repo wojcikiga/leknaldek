@@ -155,3 +155,47 @@ a:hover {
   outline: 0;
 }
 
+.btn-light.focus, .btn-light:focus {
+  color: #212529;
+  background-color: #ffffff;
+  border-color: #dae0e5;
+  box-shadow: 0 0 0 .2rem rgba(216,217,219,.5);
+}
+
+.btn-light {
+  color: #212529;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+
+.btn-outline-danger {
+  color: #af5151;
+  border-color: #af5151;
+}
+
+.btn-outline-danger:hover {
+  color: #fff;
+  background-color: #af5151;
+  border-color: #af5151;
+}
+
+.btn-outline-danger:not(:disabled):not(.disabled).active, .btn-outline-danger:not(:disabled):not(.disabled):active, .show > .btn-outline-danger.dropdown-toggle {
+  color: #fff;
+  background-color: #9f4a4a;
+  border-color: #9f4a4a;
+}
+
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(255,255,255,0);
+}
+
+.fixed-start {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#result_chart {
+}
+
