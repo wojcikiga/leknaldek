@@ -3,7 +3,7 @@ var config = {
 	data: {
 		datasets: [{
 			data: [
-				12, 5
+				79, 21
 			],
 			backgroundColor: [
 				'#82DEFE',
