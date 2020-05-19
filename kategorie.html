@@ -25,26 +25,46 @@
                         </div><button class="btn btn-outline-primary" type="button">Wyloguj</button></div>
                 </div>
                 <div class="row" style="margin-top: 25%;">
+                    <div class="col col-2">
+                        <div class="form-check"><input class="form-check-input" type="radio" id="formCheck-1"><label class="form-check-label year_label" for="formCheck-1">08/jesień</label></div>
+                        <div class="form-check"><input class="form-check-input" type="radio" id="formCheck-1"><label class="form-check-label year_label" for="formCheck-1">08/jesień</label></div>
+                    </div>
                     <div class="col d-flex flex-column align-items-center">
                         <div class="d-flex align-items-xl-center">
                             <h1 class="d-xl-flex">Kategorie</h1>
                         </div>
                         <div>
                             <ul class="list-group d-flex m-auto">
-                                <li class="list-group-item"><button class="btn" type="button" data-toggle="collapse" data-target="#collapse_0"><img class="mx-2" src="assets/img/Path%204.svg"><span>Chirurgia stomatologiczna</span></button>
-                                    <div id="collapse_0" class="collapse"><a class="m-2" href="#" style="color: rgb(104,177,204);">Zaznacz wszystko</a><a class="mx-2" href="#" style="color: rgb(104,177,204);">Odznacz wszystko</a>
-                                        <ul class="list-group text-left">
-                                            <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
-                                            <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
-                                        </ul>
-                                    </div>
-                                </li>
+                                <li class="list-group-item"><button class="btn px-0" id="tooth_1" type="button"><img src="assets/img/Path%204.svg"></button><button class="btn" id="category_1" type="button" data-toggle="collapse" data-target="#collapse_0"><span>Chirurgia stomatologiczna</span><i class="fa fa-chevron-down"></i></button>
+                                    <div
+                                        id="collapse_0" class="collapse0">
+                                        <div class="form-check ml-5"><input class="form-check-input" type="radio" id="formCheck-1"><label class="form-check-label" for="formCheck-1">fajna chirurgia</label></div>
+                        </div>
+                        </li>
+                        <li class="list-group-item"><button class="btn px-0" id="tooth_1" type="button"><img src="assets/img/półząb.svg"></button><button class="btn" id="category_1" type="button" data-toggle="collapse" data-target="#collapse_0"><span>Chirurgia stomatologiczna</span><i class="fa fa-chevron-down"></i></button>
+                            <div
+                                id="collapse_0" class="collapse"><a class="m-2" href="#" style="color: rgb(104,177,204);">Zaznacz wszystko</a><a class="mx-2" href="#" style="color: rgb(104,177,204);">Odznacz wszystko</a>
+                                <ul class="list-group text-left">
+                                    <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
+                                    <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
+                                </ul>
+                    </div>
+                    </li>
+                    <li class="list-group-item"><button class="btn px-0" id="tooth_1" type="button"><img src="assets/img/zabek.svg"></button><button class="btn" id="category_1" type="button" data-toggle="collapse" data-target="#collapse_0"><span>Chirurgia stomatologiczna</span><i class="fa fa-chevron-down"></i></button>
+                        <div
+                            id="collapse_0" class="collapse"><a class="m-2" href="#" style="color: rgb(104,177,204);">Zaznacz wszystko</a><a class="mx-2" href="#" style="color: rgb(104,177,204);">Odznacz wszystko</a>
+                            <ul class="list-group text-left">
+                                <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
+                                <li class="list-group-item"><button class="btn" type="button"><i class="fa fa-circle-o mr-2"></i><span>śliczna</span></button></li>
                             </ul>
-                        </div><button class="btn btn-primary" type="button">Wygeneruj test</button></div>
                 </div>
-            </div>
-        </div>
-        <div class="d-md-flex justify-content-md-center d-none d-sm-flex flex-column fixed-right" id="side_nav" style="background-color: #575757;width: 25%;"><img class="img-fluid py-4" src="assets/img/kategorie_zaznaczone.svg" style="height: 150px;"><img class="py-4" src="assets/img/latami.svg" style="height: 150px;"><img class="py-4" src="assets/img/quiz.svg" style="height: 150px;"></div>
+                </li>
+                </ul>
+            </div><button class="btn btn-primary" type="button">Wygeneruj test</button></div>
+    </div>
+    </div>
+    </div>
+    <div class="d-md-flex justify-content-md-center d-none d-sm-flex flex-column fixed-right" id="side_nav" style="background-color: #575757;width: 25%;"><img class="img-fluid py-4" src="assets/img/KATEGORIE.svg" style="height: 150px;"><img class="py-4" src="assets/img/LATAMI%20dis.svg" style="height: 150px;"><img class="py-4" src="assets/img/QUIZ%20dis.svg" style="height: 150px;"></div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>

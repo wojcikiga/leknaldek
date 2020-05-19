@@ -46,3 +46,12 @@
   top: 0;
 }
 
+.year_label {
+  font-size: x-small;
+}
+
+.vert-line {
+  border-left: 1px solid #707070;
+  height: 70px;
+}
+
