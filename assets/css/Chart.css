@@ -50,3 +50,8 @@
   font-size: x-small;
 }
 
+.vert-line {
+  border-left: 1px solid #707070;
+  height: 70px;
+}
+
